@@ -259,7 +259,7 @@ Partial Class Form1
         Me.TextBox2.ReadOnly = True
         Me.TextBox2.Size = New System.Drawing.Size(185, 59)
         Me.TextBox2.TabIndex = 22
-        Me.TextBox2.Text = "Integrantes: " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Mario Duque" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Alberto Rangel 8-987-442"
+        Me.TextBox2.Text = "Integrantes: " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Mario Duque 8-1000-989" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Alberto Rangel 8-987-442"
         '
         'Label10
         '
